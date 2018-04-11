@@ -1,11 +1,9 @@
 {
-  "name": "Justin Searls",
+  "name": "Denny Headrick",
   "email": {
-    "personal": "searls@gmail.com",
-    "work": "justin@testdouble.com"
+    "personal": "denny.headrick@gmail.com"
+
   },
-  "twitter": "searls",
-  "github": "searls",
-  "linkedin": "searls",
-  "website": "https://testdouble.com/agency"
+  "twitter": "dennythecoder",
+  "github": "dennythecoder"
 }

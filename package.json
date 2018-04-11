@@ -1,18 +1,17 @@
 {
-  "name": "searls",
-  "version": "0.0.2",
-  "description": "Justin Searls' contact info",
+  "name": "denny",
+  "version": "0.0.1",
+  "description": "Denny Headrick's contact info",
   "main": "index.js",
-  "repository": "searls/searls",
+  "repository": "dennythecoder/denny",
   "scripts": {
     "postinstall": "cat info.json"
   },
   "keywords": [
     "person",
     "contact",
-    "searls",
-    "test double"
+    "dennythecoder"
   ],
-  "author": "Justin Searls <searls@gmail.com>",
+  "author": "Denny Headrick <denny.headrick@gmail.com>",
   "license": "GPL-3.0"
 }
