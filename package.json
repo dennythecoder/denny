@@ -1,11 +1,11 @@
 {
   "name": "denny",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Denny Headrick's contact info",
   "main": "index.js",
   "repository": "dennythecoder/denny",
   "scripts": {
-    "postinstall": "cat info.json"
+    "postinstall": "node index"
   },
   "keywords": [
     "person",
